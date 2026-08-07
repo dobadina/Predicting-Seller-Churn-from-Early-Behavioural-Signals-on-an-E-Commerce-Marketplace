@@ -6,6 +6,7 @@ Machine learning project focused on predicting seller churn early and turning pr
 - Predicts which sellers will churn within 12 months
 - Uses only the first 60 days of behaviour
 - Flags risk early enough for intervention
+  
 🎯 Business problem
 
 Marketplace teams typically act too late.
